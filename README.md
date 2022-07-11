@@ -107,4 +107,4 @@ Arc Warden | 768 | 1001 | 43.41
 
 ## License
 
-This project is licensed with the [](LICENSE).
+This project is licensed with the [MIT License](LICENSE).
